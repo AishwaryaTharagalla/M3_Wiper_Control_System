@@ -66,7 +66,7 @@ when we ON the wiper system , the wiper speed is automatically adjusted inaccord
 |HL02|User should be given alert incase of heavy rainfall |technical|
 |HL03|User should able to TURN ON wiper system |technical|  
 |HL04|The system sould able automatically switch the speed of wipers |technical|
-|HL05|The system should work efficiently|technical|  
+|HL05|The system should work accurately|technical|  
 
 
 ## Low Level Requirements 
@@ -74,6 +74,6 @@ when we ON the wiper system , the wiper speed is automatically adjusted inaccord
 | ----- | ----- | ------- | 
 |LL01|User should able to TURN ON wiper system |technical|  
 |LL02|The system sould able automatically switch the speed of wipers |technical|
-|LL04|The system should work efficiently|technical|   
+|LL03|The system should work accurately|technical|   
 
 
