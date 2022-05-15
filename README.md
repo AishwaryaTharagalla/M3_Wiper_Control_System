@@ -15,4 +15,4 @@
 3_Implementation	|All code and documentation
 4_TestCases|	Documents with test plans and procedures
 5_Report| Overall report of project Implementation
-6_Output| Output images and simulide file
+6_Output| Output images and STMide file
