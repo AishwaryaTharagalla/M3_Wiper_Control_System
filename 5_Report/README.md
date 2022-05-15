@@ -59,6 +59,20 @@ Mostly useful in cold climatic conditions , places having high fog and heavy rai
 ## How
 when we ON the wiper system , the wiper speed is automatically adjusted inaccordance with the rain intensity.
 
+# BEHAVIOURAL DIAGRAMS
+![m3 - PowerPoint 14-May-2022 18_55_12](https://user-images.githubusercontent.com/101447824/168428166-5e866b67-e61c-493d-bd56-b3a3ecfe649d.png)
+
+## FLOW CHART
+![m3 - PowerPoint 14-May-2022 18_55_25](https://user-images.githubusercontent.com/101447824/168428337-2e27219a-3953-4b1d-871f-90f785b9cd29.png)
+
+# Block Diagrams
+
+![m3 - PowerPoint 14-May-2022 18_55_46](https://user-images.githubusercontent.com/101447824/168428390-28fdef8d-e6a8-4911-9d98-8d75e0abb7ec.png)
+
+![Document1 - Word 14-May-2022 18_20_18](https://user-images.githubusercontent.com/101447824/168480292-210e6713-759d-4f73-b9eb-19a2d4db76d7.png)
+
+
+
 # HIGH LEVEL TEST PLAN
 
 | **Test ID** | **Description**                                              | **Actual Output** | **Expected Output** |   
@@ -76,4 +90,30 @@ when we ON the wiper system , the wiper speed is automatically adjusted inaccord
 |LL01|User should able to TURN ON wiper system |TURN ON | TURN ON |  
 |LL02|The system sould able automatically switch the speed of wipers |Automatically switches speed|Automatically switches speed |
 |LL03|The system should work accurately |Works accurately | Works accurately |
+
+# SIMULATION RESULTS
+
+## STM BOARD
+![STM BOARD](https://user-images.githubusercontent.com/101447824/168481074-091e77f2-8920-43c5-a063-bd673b4d5f2d.png)
+
+
+## Ignition Key Position
+![RED LED ON](https://user-images.githubusercontent.com/101447824/168481065-8a0f5900-16b6-40fa-bfcc-2ec47e4efb72.png)
+
+## WIPER ON STATE
+
+### AT 1HZ FREQUENCY
+![BLUE LED ON ](https://user-images.githubusercontent.com/101447824/168481071-3880fd81-011d-4422-b9de-af36fac64a8a.png)
+
+### AT 4HZ FREQUENCY
+![GREEN LED ON](https://user-images.githubusercontent.com/101447824/168481068-5006e742-0cb9-45b0-9973-e0c1a546c94b.png)
+
+### AT 8HZ FREQUENCY
+![ORANGE LED ON](https://user-images.githubusercontent.com/101447824/168481069-fe066fd7-4ab8-4c19-a73c-69c49fb5c928.png)
+
+## WIPER OFF STATE
+![RED LED ON](https://user-images.githubusercontent.com/101447824/168481065-8a0f5900-16b6-40fa-bfcc-2ec47e4efb72.png)
+
+## Ignition Key Position at Lock
+![STM BOARD](https://user-images.githubusercontent.com/101447824/168481074-091e77f2-8920-43c5-a063-bd673b4d5f2d.png)
 
